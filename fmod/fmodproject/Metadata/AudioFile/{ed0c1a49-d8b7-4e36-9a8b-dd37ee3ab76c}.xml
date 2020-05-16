@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{ed0c1a49-d8b7-4e36-9a8b-dd37ee3ab76c}">
+		<property name="assetPath">
+			<value>Efeitos Sonoros/Claps/Clap-01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.10723356009070295</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{df5e223e-51bb-4420-99cc-fa7926eb8932}</destination>
+		</relationship>
+	</object>
+</objects>

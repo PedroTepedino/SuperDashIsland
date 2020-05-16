@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{a8d00960-574d-4818-bb7e-fb83c6d05238}">
+		<property name="assetPath">
+			<value>Efeitos Sonoros/Alarme/Pee-01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>5.923854875283447</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{df5e223e-51bb-4420-99cc-fa7926eb8932}</destination>
+		</relationship>
+	</object>
+</objects>

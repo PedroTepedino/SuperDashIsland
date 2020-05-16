@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{6c2acf9d-76da-4fdc-8359-d7f091a7cf23}">
+		<property name="assetPath">
+			<value>Som Animais/Porco/Porco2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.27154195011337867</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{df5e223e-51bb-4420-99cc-fa7926eb8932}</destination>
+		</relationship>
+	</object>
+</objects>

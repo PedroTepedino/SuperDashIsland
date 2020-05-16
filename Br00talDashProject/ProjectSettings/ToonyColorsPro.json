@@ -1,0 +1,15 @@
+{
+    "AutoNames": true,
+    "SubFolders": true,
+    "OverwriteConfig": false,
+    "LoadAllShaders": false,
+    "CustomOutputPath": "/JMO Assets/Toony Colors Pro/Shaders Generated/",
+    "LastImplementationExportImportPath": "D:/Repos/RevolverCat/project-brootal-dash/Br00talDashProject/Assets",
+    "OpenedFoldouts": [
+        "THIRD PARTY PLUGINS",
+        "LIGHTING",
+        "SURFACE",
+        "OPTIONS",
+        "STYLIZATION"
+    ]
+}

@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 500b3401a0992f7408ddc395d0c85f37
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ColunaFrente
+    100002: ColunaTras
+    100004: joint5
+    100006: joint5 1
+    100008: joint9
+    100010: joint9 1
+    100012: //RootNode
+    100014: MoveAll1
+    100016: NaoMexe
+    100018: NaoMexe2
+    100020: PataDianteiraDireita
+    100022: PataDianteiraEsquerda
+    100024: PataTraseiradireita
+    100026: PataTraseiraEsquerda
+    100028: polySurface17
+    400000: ColunaFrente
+    400002: ColunaTras
+    400004: joint5
+    400006: joint5 1
+    400008: joint9
+    400010: joint9 1
+    400012: //RootNode
+    400014: MoveAll1
+    400016: NaoMexe
+    400018: NaoMexe2
+    400020: PataDianteiraDireita
+    400022: PataDianteiraEsquerda
+    400024: PataTraseiradireita
+    400026: PataTraseiraEsquerda
+    400028: polySurface17
+    2100000: T4extura
+    2100002: lambert11
+    2100004: lambert10
+    2100006: lambert3
+    2100008: lambert12
+    2100010: lambert6
+    4300000: polySurface17
+    9500000: //RootNode
+    13700000: polySurface17
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T4extura
+    second: {fileID: 2100000, guid: f0f72b8cb3662744f8e6f8034cbd86a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: 196edc1b923d14e42a4f3ac0a8bdc2a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert11
+    second: {fileID: 2100000, guid: ef2336183ed47314aa50330319676eba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: 85db6ed2dec89dd4f8e5643b00780330, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 8177df96dd9d4d446b76f1d66aa21e66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: fa3ae33552385714d82cacdcebce145a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GadoCompletoUV
+    second: {fileID: 2800000, guid: 2c7ac685c0c864340a6de5a810ed7b7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: UVOlho
+    second: {fileID: 2800000, guid: 164c7f14cd9161f48a8eed2198a8f117, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.39999998
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 8b979848816ebfb4f83c346ec5295fd1,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

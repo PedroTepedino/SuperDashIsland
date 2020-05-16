@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EncodableAsset" id="{fb485215-f365-4f77-ad89-066d9c33125b}">
+		<property name="assetPath">
+			<value>Efeitos Sonoros/Pavio/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{df5e223e-51bb-4420-99cc-fa7926eb8932}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: a48892775d20133479af9b4963999cd0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ColunaFrente
+    100002: ColunaTras
+    100004: joint5
+    100006: joint5 1
+    100008: joint9
+    100010: joint9 1
+    100012: MoveAll1
+    100014: NaoMexe
+    100016: NaoMexe2
+    100018: PataDianteiraDireita
+    100020: PataDianteiraEsquerda
+    100022: PataTraseiradireita
+    100024: PataTraseiraEsquerda
+    100026: pCube19
+    100028: pCube20
+    100030: pCylinder2
+    100032: pCylinder3
+    100034: pCylinder4
+    100036: pPipe1
+    100038: pPipe2
+    100040: //RootNode
+    100042: transform1
+    100044: transform2
+    100046: transform3
+    100048: transform4
+    100050: transform5
+    400000: ColunaFrente
+    400002: ColunaTras
+    400004: joint5
+    400006: joint5 1
+    400008: joint9
+    400010: joint9 1
+    400012: MoveAll1
+    400014: NaoMexe
+    400016: NaoMexe2
+    400018: PataDianteiraDireita
+    400020: PataDianteiraEsquerda
+    400022: PataTraseiradireita
+    400024: PataTraseiraEsquerda
+    400026: pCube19
+    400028: pCube20
+    400030: pCylinder2
+    400032: pCylinder3
+    400034: pCylinder4
+    400036: pPipe1
+    400038: pPipe2
+    400040: //RootNode
+    400042: transform1
+    400044: transform2
+    400046: transform3
+    400048: transform4
+    400050: transform5
+    2100000: lambert13
+    2100002: lambert10
+    2100004: lambert4
+    2100006: lambert12
+    2100008: lambert3
+    2100010: lambert15
+    2100012: lambert16
+    2100014: lambert14
+    4300000: pCube19
+    4300002: pCylinder4
+    9500000: //RootNode
+    13700000: pCube19
+    13700002: pCylinder4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: dc5bce733a9f0174e87c468c1443b003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: c0dab590bcc173b4b9853eb6accae21f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: abdb23512cbe46849ac5a7af86cade36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14
+    second: {fileID: 2100000, guid: e012711ccf373f84b8407895a1cca06e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert15
+    second: {fileID: 2100000, guid: 4416f7f62502b004d8f05db742c4de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert16
+    second: {fileID: 2100000, guid: e97fc420460e02c47a3720b5cfef25ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: e807d2d4d6a2cdf449024109ddd32929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: b85e759ec2ca58e4fa6d928e56a3d4cd, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: UVOlho
+    second: {fileID: 2800000, guid: eb86a8f9e0b27394ea87eddb0c6a84b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ursao_uv
+    second: {fileID: 2800000, guid: ed52bc16d887c7c4593f3163552e07b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ursao_uv_nariz
+    second: {fileID: 2800000, guid: 2710c8aa55344c24db44841954945304, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

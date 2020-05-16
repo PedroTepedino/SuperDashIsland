@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1532135424185249216
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1532135424185249218}
+  - component: {fileID: 1532135424185249217}
+  m_Layer: 0
+  m_Name: ObjectPooler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1532135424185249218
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532135424185249216}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.469898, y: 3.7647204, z: 9.839596}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1532135424185249217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532135424185249216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 449a16ed727f4264f822a7209050eda6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pools:
+  - prefab: {fileID: 1745558646446697771, guid: beb8e7f1234ad2f4bbef65554f7d8e55,
+      type: 3}
+    tag: Splash
+    size: 1
+    fixSize: 0
+  - prefab: {fileID: 7311471438747734157, guid: c1f07576ef33d784da62af593f89156e,
+      type: 3}
+    tag: Stars
+    size: 1
+    fixSize: 0
+  - prefab: {fileID: 6002740607138248517, guid: a0e2dca683238134da88a04807650644,
+      type: 3}
+    tag: MeteoreObject
+    size: 0
+    fixSize: 0
+  - prefab: {fileID: 4402916765576419025, guid: b2e98584a64888f499417385e29fa104,
+      type: 3}
+    tag: MeteoreEffect
+    size: 2
+    fixSize: 0
+  - prefab: {fileID: 8973974184921564850, guid: 38f31221ec5e4ef4cbf155ef15d8916b,
+      type: 3}
+    tag: BubbleEffect
+    size: 0
+    fixSize: 0
+  - prefab: {fileID: 1221388280540689930, guid: 440c877091e925741800b90aa10b1fe4,
+      type: 3}
+    tag: BubbleObject
+    size: 0
+    fixSize: 0
+  - prefab: {fileID: 5093790343926540128, guid: ba14bd794372c674b976ecd982e81957,
+      type: 3}
+    tag: BombObject
+    size: 0
+    fixSize: 0
+  - prefab: {fileID: 1797273407276992208, guid: 4c9d06422d9c50a498b631d29bb0c097,
+      type: 3}
+    tag: BombEffect
+    size: 0
+    fixSize: 0
+  - prefab: {fileID: 9104799495941723914, guid: 6d0f6981c9c83f84ab32f7b40cb702bc,
+      type: 3}
+    tag: ExplosionEffectAfterwards
+    size: 0
+    fixSize: 0
+  - prefab: {fileID: 1840282282460843656, guid: 507e60e5596b01f4e9351ddde4757e43,
+      type: 3}
+    tag: Fish
+    size: 0
+    fixSize: 0

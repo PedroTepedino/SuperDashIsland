@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ce94b2542d980ff47891cfa915d8316b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Cheese: {fileID: 2800000, guid: 1bf1cb9d09dd1314ebfa646bbc7de568, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+diff a/Br00talDashProject/Assets/Plugins/FMOD/Resources/FMODStudioCache.asset b/Br00talDashProject/Assets/Plugins/FMOD/Resources/FMODStudioCache.asset	(rejected hunks)
+@@ -14,7 +14,7 @@
+   m_EditorClassIdentifier: 
+   EditorBanks:
+   - {fileID: 114975073723549720}
+-  - {fileID: 114377020601217338}
++  - {fileID: 114078453632464744}
+   EditorEvents:
+   - {fileID: 114922718551586146}
+   - {fileID: 114686264296536362}

@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 997f7f065d70b8a49b10194cd2934328
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BotaoSimples_0
+    21300002: BotaoSimples_1
+    21300004: BotaoSimples_4
+    21300006: BotaoSimples_5
+    21300008: BotaoSimples_6
+    21300010: BotaoSimples_7
+    21300012: BotaoSimples_8
+    21300014: BotaoSimples_9
+    21300016: BotaoSimples_10
+    21300018: BotaoSimples_11
+    21300020: BotaoSimples_15
+    21300022: BotaoSimples_16
+    21300024: BotaoSimples_17
+    21300026: BotaoSimples_18
+    21300028: BotaoSimples_19
+    21300030: BotaoSimples_20
+    21300032: BotaoSimples_21
+    21300034: BotaoSimples_22
+    21300036: BotaoSimples_23
+    21300038: BotaoSimples_24
+    21300040: BotaoSimples_25
+    21300042: BotaoSimples_31
+    21300044: BotaoSimples_33
+    21300046: BotaoSimples_34
+    21300048: BotaoSimples_35
+    21300050: BotaoSimples_2
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BotaoSimples_0
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 1804
+        width: 197
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fe1845f1ed3314dbc2aaf511af3290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_1
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 1381
+        width: 514
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b0a8d8e5a4b2f4dad5804c9e997237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_4
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 1372
+        width: 495
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fad5ff754d3be84cacf621d58e9ca93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 687
+        width: 834
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8345cdba81dfe3f4bb0b6dd8a727223a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_7
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1088
+        width: 226
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf4ba807d2f85e4c963e35ebed5096d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_10
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 1088
+        width: 221
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc3f8207577ed5469ecc09a57d2b2b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_16
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 836
+        width: 188
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3846805b3c4743804d40f3c91d396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_19
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 658
+        width: 123
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc957f88a040bd94fad74fae8d0458fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_20
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 452
+        width: 605
+        height: 393
+      alignment: 9
+      pivot: {x: 0.26280993, y: 0.30788803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a20e70c6fa67724a9b2aac1674a09f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_21
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 640
+        width: 169
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e2464996aa09c4aa4f3d849d937010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_22
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 578
+        width: 605
+        height: 393
+      alignment: 9
+      pivot: {x: 0.26280993, y: 0.30788803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaed47a71acc584dbe4b2248f8a6192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_24
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 404
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214fc0c7e2535e245866586d6bbe37d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_25
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 415
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6b9c98f72424146a365b1fe342ca81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_31
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 181
+        width: 334
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09308e58d1d77d0459d8b313720769b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_33
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 163
+        width: 157
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52af53e72bb301847bd22fab0a4f4718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_34
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 163
+        width: 169
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcfecd462e71c745b03abe1bdc63855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_35
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 166
+        width: 162
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc01972796fd044382e445efdc9f5da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotaoSimples_2
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1018
+        width: 632
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0bc3cabc425ad4aa7f2a2ea5a18a7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 63abd4333382e9f47b4220a51c264598
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
